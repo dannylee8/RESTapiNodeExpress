@@ -1,15 +1,12 @@
 # danAPI
 Building a REST API with:
 
-node
-express
-mongoDB
-mongoose
-nodemon
-body-parser
+* node
+* express
+* babel
+* mongoDB
+* mongoose
+* nodemon
+* body-parser
 
-RESTful APIs
--GET gets the data
--POST adds new data
--PUT updates data
--DELETE deletes data
+ref: https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express?isLearningSubscriber=true&trk=feed-share_course_title_learning
