@@ -1,4 +1,4 @@
-# danAPI
+# RESTful API with node and express
 Building a REST API with:
 
 * node
